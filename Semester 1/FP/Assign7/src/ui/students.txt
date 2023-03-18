@@ -1,0 +1,7 @@
+1,Edna,5
+2,Hazel,2
+3,Lottie,1
+4,Charles,10
+5,Robert,5
+8,Amada,9
+9,Karen,6
