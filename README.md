@@ -1,5 +1,5 @@
-# UBB-Computer-Science
-# UBB
+# UBB-Computer-Science 
+# UBB :trophy: :mortar_board:
 <ul>
   <li>:open_file_folder: Semester 1
     <ul>
