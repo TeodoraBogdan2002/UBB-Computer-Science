@@ -28,7 +28,7 @@
         </a>
       </li>
       <li>
-        <a Object-Oriented-Programming> 
+        <a href= "https://github.com/TeodoraBogdan2002/UBB-Computer-Science/tree/main/Semester%202/Object%20Oriented%20Programming"> 
           :computer:  Object Oriented Programming 
         </a>
       </li>
@@ -37,7 +37,7 @@
   <li>:open_file_folder: Semester 3
     <ul>
       <li>
-        <a Advanced-Methods-of-Programming> 
+        <a href= "https://github.com/TeodoraBogdan2002/UBB-Computer-Science/tree/main/Semester3/MAP"> 
           :notebook_with_decorative_cover:  Advanced Methods of Programming 
         </a>
       </li>
@@ -52,7 +52,7 @@
         </a>
       </li>
       <li>
-        <a Functional-and-Logic-Programming> 
+        <a href= "https://github.com/TeodoraBogdan2002/UBB-Computer-Science/tree/main/Semester3/Functional%20And%20Logic%20Programming"> 
           :floppy_disk:  Functional and Logic Programming 
         </a>
       </li>
