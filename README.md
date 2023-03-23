@@ -14,7 +14,7 @@
         </a>
       </li>
       <li>
-        <a Fundamental-of-Programming> 
+        <a href= "https://github.com/TeodoraBogdan2002/UBB-Computer-Science/tree/main/Semester%201/FP"> 
           :snake:  Fundamentals of Programming 
         </a>
       </li>
