@@ -1,3 +1,4 @@
+# :koala:
 ## Lab 2. SQL Queries
 
 On the relational structure created for the first lab, write SQL statements that:
