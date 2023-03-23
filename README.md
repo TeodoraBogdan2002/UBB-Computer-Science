@@ -47,7 +47,7 @@
         </a>
       </li>
       <li>
-        <a Databases> 
+        <a href= "https://github.com/TeodoraBogdan2002/UBB-Computer-Science/tree/main/Semester3/Databases"> 
           :sunglasses:  Databases 
         </a>
       </li>
