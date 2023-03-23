@@ -1,0 +1,29 @@
+package Model.Statement;
+
+import Implemented_Exceptions.InterpreterException;
+import Model.MyADTs.MyIDictionary;
+import Model.PrgState.PrgState;
+import Model.Types.Type;
+
+public class NopStmt implements IStmt{
+    @Override
+    public PrgState execute(PrgState programstate) {
+        return null;
+    }
+
+    @Override
+    public IStmt deepCopy() {
+        return new NopStmt();
+    }
+
+    @Override
+    public MyIDictionary<String, Type> typeCheck(MyIDictionary<String, Type> typeEnv) throws InterpreterException {
+        return typeEnv;
+
+    }
+
+    @Override
+    public String toString() {
+        return " nop ";
+    }
+}

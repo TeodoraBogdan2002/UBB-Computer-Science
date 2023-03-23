@@ -1,0 +1,494 @@
+ProgramState with id: 7
+Execution Stack:
+(Ref(int ) v;(New(v, 20);(Print(ReadHeap(v));(WriteHeap(v, 30);Print(ReadHeap(v) + 5)))))|
+Symbol Table:
+{}
+Output:
+{}
+
+Heap: 
+{}
+File table
+{}
+
+ProgramState with id: 7
+Execution Stack:
+(New(v, 20);(Print(ReadHeap(v));(WriteHeap(v, 30);Print(ReadHeap(v) + 5))))|Ref(int ) v|
+Symbol Table:
+{}
+Output:
+{}
+
+Heap: 
+{}
+File table
+{}
+
+ProgramState with id: 7
+Execution Stack:
+(New(v, 20);(Print(ReadHeap(v));(WriteHeap(v, 30);Print(ReadHeap(v) + 5))))|Ref(int ) v|
+Symbol Table:
+{}
+Output:
+{}
+
+Heap: 
+{}
+File table
+{}
+
+ProgramState with id: 7
+Execution Stack:
+(New(v, 20);(Print(ReadHeap(v));(WriteHeap(v, 30);Print(ReadHeap(v) + 5))))|
+Symbol Table:
+{v=(0, int )}
+Output:
+{}
+
+Heap: 
+{}
+File table
+{}
+
+ProgramState with id: 7
+Execution Stack:
+(New(v, 20);(Print(ReadHeap(v));(WriteHeap(v, 30);Print(ReadHeap(v) + 5))))|
+Symbol Table:
+{v=(0, int )}
+Output:
+{}
+
+Heap: 
+{}
+File table
+{}
+
+ProgramState with id: 7
+Execution Stack:
+(Print(ReadHeap(v));(WriteHeap(v, 30);Print(ReadHeap(v) + 5)))|New(v, 20)|
+Symbol Table:
+{v=(0, int )}
+Output:
+{}
+
+Heap: 
+{}
+File table
+{}
+
+ProgramState with id: 7
+Execution Stack:
+(Print(ReadHeap(v));(WriteHeap(v, 30);Print(ReadHeap(v) + 5)))|New(v, 20)|
+Symbol Table:
+{v=(0, int )}
+Output:
+{}
+
+Heap: 
+{}
+File table
+{}
+
+ProgramState with id: 7
+Execution Stack:
+(Print(ReadHeap(v));(WriteHeap(v, 30);Print(ReadHeap(v) + 5)))|
+Symbol Table:
+{v=(1, int )}
+Output:
+{}
+
+Heap: 
+{1=20}
+File table
+{}
+
+ProgramState with id: 7
+Execution Stack:
+(Print(ReadHeap(v));(WriteHeap(v, 30);Print(ReadHeap(v) + 5)))|
+Symbol Table:
+{v=(1, int )}
+Output:
+{}
+
+Heap: 
+{1=20}
+File table
+{}
+
+ProgramState with id: 7
+Execution Stack:
+(WriteHeap(v, 30);Print(ReadHeap(v) + 5))|Print(ReadHeap(v))|
+Symbol Table:
+{v=(1, int )}
+Output:
+{}
+
+Heap: 
+{1=20}
+File table
+{}
+
+ProgramState with id: 7
+Execution Stack:
+(WriteHeap(v, 30);Print(ReadHeap(v) + 5))|Print(ReadHeap(v))|
+Symbol Table:
+{v=(1, int )}
+Output:
+{}
+
+Heap: 
+{1=20}
+File table
+{}
+
+ProgramState with id: 7
+Execution Stack:
+(WriteHeap(v, 30);Print(ReadHeap(v) + 5))|
+Symbol Table:
+{v=(1, int )}
+Output:
+{20 }
+
+Heap: 
+{1=20}
+File table
+{}
+
+ProgramState with id: 7
+Execution Stack:
+(WriteHeap(v, 30);Print(ReadHeap(v) + 5))|
+Symbol Table:
+{v=(1, int )}
+Output:
+{20 }
+
+Heap: 
+{1=20}
+File table
+{}
+
+ProgramState with id: 7
+Execution Stack:
+Print(ReadHeap(v) + 5)|WriteHeap(v, 30)|
+Symbol Table:
+{v=(1, int )}
+Output:
+{20 }
+
+Heap: 
+{1=20}
+File table
+{}
+
+ProgramState with id: 7
+Execution Stack:
+Print(ReadHeap(v) + 5)|WriteHeap(v, 30)|
+Symbol Table:
+{v=(1, int )}
+Output:
+{20 }
+
+Heap: 
+{1=20}
+File table
+{}
+
+ProgramState with id: 7
+Execution Stack:
+Print(ReadHeap(v) + 5)|
+Symbol Table:
+{v=(1, int )}
+Output:
+{20 }
+
+Heap: 
+{1=30}
+File table
+{}
+
+ProgramState with id: 7
+Execution Stack:
+Print(ReadHeap(v) + 5)|
+Symbol Table:
+{v=(1, int )}
+Output:
+{20 }
+
+Heap: 
+{1=30}
+File table
+{}
+
+ProgramState with id: 7
+Execution Stack:
+
+Symbol Table:
+{v=(1, int )}
+Output:
+{20 35 }
+
+Heap: 
+{1=30}
+File table
+{}
+
+ProgramState with id: 7
+Execution Stack:
+
+Symbol Table:
+{v=(1, int )}
+Output:
+{20 35 }
+
+Heap: 
+{1=30}
+File table
+{}
+
+ProgramState with id: 7
+Execution Stack:
+(Ref(int ) v;(New(v, 20);(Print(ReadHeap(v));(WriteHeap(v, 30);Print(ReadHeap(v) + 5)))))|
+Symbol Table:
+{}
+Output:
+{}
+
+Heap: 
+{}
+File table
+{}
+
+ProgramState with id: 7
+Execution Stack:
+(New(v, 20);(Print(ReadHeap(v));(WriteHeap(v, 30);Print(ReadHeap(v) + 5))))|Ref(int ) v|
+Symbol Table:
+{}
+Output:
+{}
+
+Heap: 
+{}
+File table
+{}
+
+ProgramState with id: 7
+Execution Stack:
+(New(v, 20);(Print(ReadHeap(v));(WriteHeap(v, 30);Print(ReadHeap(v) + 5))))|Ref(int ) v|
+Symbol Table:
+{}
+Output:
+{}
+
+Heap: 
+{}
+File table
+{}
+
+ProgramState with id: 7
+Execution Stack:
+(New(v, 20);(Print(ReadHeap(v));(WriteHeap(v, 30);Print(ReadHeap(v) + 5))))|
+Symbol Table:
+{v=(0, int )}
+Output:
+{}
+
+Heap: 
+{}
+File table
+{}
+
+ProgramState with id: 7
+Execution Stack:
+(New(v, 20);(Print(ReadHeap(v));(WriteHeap(v, 30);Print(ReadHeap(v) + 5))))|
+Symbol Table:
+{v=(0, int )}
+Output:
+{}
+
+Heap: 
+{}
+File table
+{}
+
+ProgramState with id: 7
+Execution Stack:
+(Print(ReadHeap(v));(WriteHeap(v, 30);Print(ReadHeap(v) + 5)))|New(v, 20)|
+Symbol Table:
+{v=(0, int )}
+Output:
+{}
+
+Heap: 
+{}
+File table
+{}
+
+ProgramState with id: 7
+Execution Stack:
+(Print(ReadHeap(v));(WriteHeap(v, 30);Print(ReadHeap(v) + 5)))|New(v, 20)|
+Symbol Table:
+{v=(0, int )}
+Output:
+{}
+
+Heap: 
+{}
+File table
+{}
+
+ProgramState with id: 7
+Execution Stack:
+(Print(ReadHeap(v));(WriteHeap(v, 30);Print(ReadHeap(v) + 5)))|
+Symbol Table:
+{v=(1, int )}
+Output:
+{}
+
+Heap: 
+{1=20}
+File table
+{}
+
+ProgramState with id: 7
+Execution Stack:
+(Print(ReadHeap(v));(WriteHeap(v, 30);Print(ReadHeap(v) + 5)))|
+Symbol Table:
+{v=(1, int )}
+Output:
+{}
+
+Heap: 
+{1=20}
+File table
+{}
+
+ProgramState with id: 7
+Execution Stack:
+(WriteHeap(v, 30);Print(ReadHeap(v) + 5))|Print(ReadHeap(v))|
+Symbol Table:
+{v=(1, int )}
+Output:
+{}
+
+Heap: 
+{1=20}
+File table
+{}
+
+ProgramState with id: 7
+Execution Stack:
+(WriteHeap(v, 30);Print(ReadHeap(v) + 5))|Print(ReadHeap(v))|
+Symbol Table:
+{v=(1, int )}
+Output:
+{}
+
+Heap: 
+{1=20}
+File table
+{}
+
+ProgramState with id: 7
+Execution Stack:
+(WriteHeap(v, 30);Print(ReadHeap(v) + 5))|
+Symbol Table:
+{v=(1, int )}
+Output:
+{20 }
+
+Heap: 
+{1=20}
+File table
+{}
+
+ProgramState with id: 7
+Execution Stack:
+(WriteHeap(v, 30);Print(ReadHeap(v) + 5))|
+Symbol Table:
+{v=(1, int )}
+Output:
+{20 }
+
+Heap: 
+{1=20}
+File table
+{}
+
+ProgramState with id: 7
+Execution Stack:
+Print(ReadHeap(v) + 5)|WriteHeap(v, 30)|
+Symbol Table:
+{v=(1, int )}
+Output:
+{20 }
+
+Heap: 
+{1=20}
+File table
+{}
+
+ProgramState with id: 7
+Execution Stack:
+Print(ReadHeap(v) + 5)|WriteHeap(v, 30)|
+Symbol Table:
+{v=(1, int )}
+Output:
+{20 }
+
+Heap: 
+{1=20}
+File table
+{}
+
+ProgramState with id: 7
+Execution Stack:
+Print(ReadHeap(v) + 5)|
+Symbol Table:
+{v=(1, int )}
+Output:
+{20 }
+
+Heap: 
+{1=30}
+File table
+{}
+
+ProgramState with id: 7
+Execution Stack:
+Print(ReadHeap(v) + 5)|
+Symbol Table:
+{v=(1, int )}
+Output:
+{20 }
+
+Heap: 
+{1=30}
+File table
+{}
+
+ProgramState with id: 7
+Execution Stack:
+
+Symbol Table:
+{v=(1, int )}
+Output:
+{20 35 }
+
+Heap: 
+{1=30}
+File table
+{}
+
+ProgramState with id: 7
+Execution Stack:
+
+Symbol Table:
+{v=(1, int )}
+Output:
+{20 35 }
+
+Heap: 
+{1=30}
+File table
+{}
+

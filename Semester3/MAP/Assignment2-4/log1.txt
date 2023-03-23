@@ -1,0 +1,143 @@
+ProgramState with id: 1
+Execution Stack:
+(int  v;(v=2;Print(v)))|
+Symbol Table:
+{}
+Output:
+{}
+
+Heap: 
+{}
+File table
+{}
+
+ProgramState with id: 1
+Execution Stack:
+(v=2;Print(v))|int  v|
+Symbol Table:
+{}
+Output:
+{}
+
+Heap: 
+{}
+File table
+{}
+
+ProgramState with id: 1
+Execution Stack:
+(v=2;Print(v))|int  v|
+Symbol Table:
+{}
+Output:
+{}
+
+Heap: 
+{}
+File table
+{}
+
+ProgramState with id: 1
+Execution Stack:
+(v=2;Print(v))|
+Symbol Table:
+{v=0}
+Output:
+{}
+
+Heap: 
+{}
+File table
+{}
+
+ProgramState with id: 1
+Execution Stack:
+(v=2;Print(v))|
+Symbol Table:
+{v=0}
+Output:
+{}
+
+Heap: 
+{}
+File table
+{}
+
+ProgramState with id: 1
+Execution Stack:
+Print(v)|v=2|
+Symbol Table:
+{v=0}
+Output:
+{}
+
+Heap: 
+{}
+File table
+{}
+
+ProgramState with id: 1
+Execution Stack:
+Print(v)|v=2|
+Symbol Table:
+{v=0}
+Output:
+{}
+
+Heap: 
+{}
+File table
+{}
+
+ProgramState with id: 1
+Execution Stack:
+Print(v)|
+Symbol Table:
+{v=2}
+Output:
+{}
+
+Heap: 
+{}
+File table
+{}
+
+ProgramState with id: 1
+Execution Stack:
+Print(v)|
+Symbol Table:
+{v=2}
+Output:
+{}
+
+Heap: 
+{}
+File table
+{}
+
+ProgramState with id: 1
+Execution Stack:
+
+Symbol Table:
+{v=2}
+Output:
+{2 }
+
+Heap: 
+{}
+File table
+{}
+
+ProgramState with id: 1
+Execution Stack:
+
+Symbol Table:
+{v=2}
+Output:
+{2 }
+
+Heap: 
+{}
+File table
+{}
+

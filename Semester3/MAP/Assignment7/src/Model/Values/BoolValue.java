@@ -1,0 +1,24 @@
+package Model.Values;
+import Model.Types.BoolType;
+import Model.Types.Type;
+
+public class BoolValue implements Value{
+    private boolean val;
+    public BoolValue(boolean b) {
+        this.val=b;
+    }
+    public boolean getValue(){
+        return this.val;
+    }
+    public String toString(){
+        return String.valueOf(this.val);
+    }
+    public Type getType(){
+        return new BoolType();
+    }
+
+    @Override
+    public Value deepCopy() {
+        return new BoolValue(val);
+    }
+}
