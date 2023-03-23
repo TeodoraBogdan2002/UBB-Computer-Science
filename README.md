@@ -14,7 +14,7 @@
         </a>
       </li>
       <li>
-        <a Fundamental-of-Programming> 
+        <a href= "https://github.com/TeodoraBogdan2002/UBB-Computer-Science/tree/main/Semester%201/FP"> 
           :snake:  Fundamentals of Programming 
         </a>
       </li>
@@ -23,7 +23,7 @@
   <li>:open_file_folder: Semester 2
     <ul>
       <li>
-        <a Data-Structures-and-Algorithms> 
+        <a href= "https://github.com/TeodoraBogdan2002/UBB-Computer-Science/tree/main/Semester%202/Data%20Structures%20and%20Algorithms"> 
           :trophy:  Data Structures and Algorithms 
         </a>
       </li>
