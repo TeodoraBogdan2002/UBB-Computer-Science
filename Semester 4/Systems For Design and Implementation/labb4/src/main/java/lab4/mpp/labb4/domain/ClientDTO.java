@@ -1,0 +1,104 @@
+package lab4.mpp.labb4.domain;
+
+import java.util.Objects;
+
+public class ClientDTO {
+    private  Long idClient;
+    private String FName;
+    private String LName;
+    private String phoneNR;
+    private String email_address;
+    private String dateOfBirth;
+    private Long address_id;
+//    private AddressDTO addressDTO;
+
+    public ClientDTO(String FName, String LName, String phoneNR, String address, String dateOfBirth, AddressDTO addressDTO) {
+        this.FName = FName;
+        this.LName = LName;
+        this.phoneNR = phoneNR;
+        this.email_address = address;
+        this.dateOfBirth = dateOfBirth;
+    }
+
+    public ClientDTO(Long idClient, String FName, String LName, String phoneNR, String address, String dateOfBirth, AddressDTO addressDTO) {
+        this.idClient = idClient;
+        this.FName = FName;
+        this.LName = LName;
+        this.phoneNR = phoneNR;
+        this.email_address = address;
+        this.dateOfBirth = dateOfBirth;
+    }
+
+    public ClientDTO() {
+    }
+
+
+
+    public Long getAddressID() {
+        return address_id;
+    }
+
+    public void setAddressID(Long addressID) {
+        this.address_id = addressID;
+    }
+
+    public Long getIdClient() {
+        return idClient;
+    }
+
+    public void setIdClient(Long idClient) {
+        this.idClient = idClient;
+    }
+
+    public String getFName() {
+        return FName;
+    }
+
+    public void setFName(String FName) {
+        this.FName = FName;
+    }
+
+    public String getLName() {
+        return LName;
+    }
+
+    public void setLName(String LName) {
+        this.LName = LName;
+    }
+
+    public String getPhoneNR() {
+        return phoneNR;
+    }
+
+    public void setPhoneNR(String phoneNR) {
+        this.phoneNR = phoneNR;
+    }
+
+    public String getEmail_address() {
+        return email_address;
+    }
+
+    public void setEmail_address(String email_address) {
+        this.email_address = email_address;
+    }
+
+    public String getDateOfBirth() {
+        return dateOfBirth;
+    }
+
+    public void setDateOfBirth(String dateOfBirth) {
+        this.dateOfBirth = dateOfBirth;
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (!(o instanceof Client adoption)) return false;
+        return getIdClient().equals(adoption.getId()) && getFName().equals(adoption.getFName()) &&  getLName().equals(adoption.getLName()) && getPhoneNR().equals(adoption.getPhoneNR()) && getEmail_address().equals(adoption.getEmail_address()) && getDateOfBirth().equals(adoption.getDateOfBirth());//getPetId().equals(adoption.getPetId()) && getCustomerId().equals(adoption.getCustomerId()) &&
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(idClient, FName, LName, phoneNR, email_address, dateOfBirth);
+    }
+}
