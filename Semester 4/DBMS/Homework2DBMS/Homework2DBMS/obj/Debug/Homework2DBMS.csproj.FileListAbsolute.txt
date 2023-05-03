@@ -1,0 +1,11 @@
+C:\Users\teove\Documents\MyVS\Homework2DBMS\Homework2DBMS\bin\Debug\Homework2DBMS.exe.config
+C:\Users\teove\Documents\MyVS\Homework2DBMS\Homework2DBMS\bin\Debug\Homework2DBMS.exe
+C:\Users\teove\Documents\MyVS\Homework2DBMS\Homework2DBMS\bin\Debug\Homework2DBMS.pdb
+C:\Users\teove\Documents\MyVS\Homework2DBMS\Homework2DBMS\obj\Debug\Homework2DBMS.csproj.AssemblyReference.cache
+C:\Users\teove\Documents\MyVS\Homework2DBMS\Homework2DBMS\obj\Debug\Homework2DBMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\teove\Documents\MyVS\Homework2DBMS\Homework2DBMS\obj\Debug\Homework2DBMS.Properties.Resources.resources
+C:\Users\teove\Documents\MyVS\Homework2DBMS\Homework2DBMS\obj\Debug\Homework2DBMS.csproj.GenerateResource.cache
+C:\Users\teove\Documents\MyVS\Homework2DBMS\Homework2DBMS\obj\Debug\Homework2DBMS.csproj.CoreCompileInputs.cache
+C:\Users\teove\Documents\MyVS\Homework2DBMS\Homework2DBMS\obj\Debug\Homework2DBMS.exe
+C:\Users\teove\Documents\MyVS\Homework2DBMS\Homework2DBMS\obj\Debug\Homework2DBMS.pdb
+C:\Users\teove\Documents\MyVS\Homework2DBMS\Homework2DBMS\obj\Debug\Homework2DBMS.Form1.resources
