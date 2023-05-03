@@ -74,7 +74,7 @@
           :newspaper:  Web Programming
       </li>
       <li>
-        <a href="https://github.com/TeodoraBogdan2002/Systems-for-Design-and-Implementation">
+        <a href="https://github.com/TeodoraBogdan2002/UBB-Computer-Science/tree/main/Semester%204/Systems%20For%20Design%20and%20Implementation">
           :zap:  Systems for Design and Implementation
       </li>
       <li>
