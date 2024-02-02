@@ -37,7 +37,7 @@
   <li>:open_file_folder: Semester 3
     <ul>
       <li>
-        <a href= "https://github.com/TeodoraBogdan2002/UBB-Computer-Science/tree/main/Semester3/MAP"> 
+        <a href= "https://github.com/TeodoraBogdan2002/UBB-Computer-Science/tree/main/Semester%203/MAP"> 
           :notebook_with_decorative_cover:  Advanced Methods of Programming 
         </a>
       </li>
@@ -47,12 +47,12 @@
         </a>
       </li>
       <li>
-        <a href= "https://github.com/TeodoraBogdan2002/UBB-Computer-Science/tree/main/Semester3/Databases"> 
+        <a href= "https://github.com/TeodoraBogdan2002/UBB-Computer-Science/tree/main/Semester%203/Databases"> 
           :sunglasses:  Databases 
         </a>
       </li>
       <li>
-        <a href= "https://github.com/TeodoraBogdan2002/UBB-Computer-Science/tree/main/Semester3/Functional%20And%20Logic%20Programming"> 
+        <a href= "https://github.com/TeodoraBogdan2002/UBB-Computer-Science/tree/main/Semester%203/Functional%20And%20Logic%20Programming"> 
           :floppy_disk:  Functional and Logic Programming 
         </a>
       </li>
