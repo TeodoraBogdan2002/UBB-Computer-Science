@@ -66,7 +66,7 @@
   <li>:open_file_folder: Semester 4
     <ul>
       <li>
-        <a href="https://github.com/TeodoraBogdan2002/Database-Management-Systems">
+        <a href="https://github.com/TeodoraBogdan2002/UBB-Computer-Science/tree/main/Semester%204/DBMS">
           :nut_and_bolt:  Database Management Systems
       </li>
       <li>
