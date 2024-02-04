@@ -94,6 +94,10 @@
         <a href="https://github.com/TeodoraBogdan2002/Mobile">
           :maple_leaf:  Mobile
       </li>
+      <li>
+        <a href="https://github.com/TeodoraBogdan2002/Sem5-FLCD">
+          :elephant:  Formal Languages And Compiler Design
+      </li>
     </ul>
   </li>
 </ul>
