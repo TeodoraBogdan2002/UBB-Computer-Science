@@ -82,7 +82,7 @@
           :ferris_wheel:  Artificial Intelligence
       </li>
       <li>
-        <a href="https://github.com/TeodoraBogdan2002/Software-Engineering">
+        <a href="https://github.com/TeodoraBogdan2002/Software-Engineering-Web-App-Project">
           :ambulance:  Software Engineering
         </a>
       </li>
