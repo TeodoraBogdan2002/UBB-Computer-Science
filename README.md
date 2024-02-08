@@ -70,7 +70,7 @@
           :nut_and_bolt:  Database Management Systems
       </li>
       <li>
-        <a href="https://github.com/TeodoraBogdan2002/WebProgramming">
+        <a href="https://github.com/TeodoraBogdan2002/UBB-Computer-Science/tree/main/Semester%204/Web%20Programming">
           :newspaper:  Web Programming
       </li>
       <li>
