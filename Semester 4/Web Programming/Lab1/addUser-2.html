@@ -1,0 +1,60 @@
+
+<html>
+    <head>
+        <title>Employees AU</title>
+        <link rel="stylesheet" href="style.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    </head>
+
+    <body>
+        <nav>
+            <a href="browseUser.php">  Browse Employee  </a>
+            <br>
+            <a href="#">  Add Employee  </a>
+            <br>
+            <a href="updateUser.php">  Update Employee  </a>
+            <br>
+            <a href="deleteUser.php">  Delete Employee  </a>
+        </nav>
+
+        <br>
+        <br>
+
+        <form method="post" class="form" id="add-user" action="addUser.php">
+            <label for="first_name">First Name: </label>
+            <input name="first_name" type="text">
+            
+            <br>
+            <br>
+
+            <label for="last_name">Last Name: </label>
+            <input password="last_name" type="text">
+
+            <br>
+            <br>
+
+            <label for="id_employee">Id of employee: </label>
+            <input name="id_employee" type="number">
+
+            <br>
+            <br>
+
+            <label for="phone_number">Phone Number: </label>
+            <input name="phone_number" type="text">
+
+            <br>
+            <br>
+
+            <label for="date_of_birth">Date of birth: </label>
+            <input name="date_of_birth" type="text">
+            
+
+            <br><br><br><br>
+
+            <input type="submit" value="Add user"/>
+
+        </form>
+
+      
+    </body>
+</html>
