@@ -33,7 +33,7 @@ const PAGE_SIZE = 100;
 export const CarsShowAll = () => {
     const [loading, setLoading] = useState(false);
     const [car, setCars] = useState<CarDTO[]>([]);
-    const [page, setPage] = useState(1);
+    const [page, setPage] = useState(0);
     const [pageSize, setPageSize] = useState(10);
     const crt = (page - 1) * pageSize + 1;
   
