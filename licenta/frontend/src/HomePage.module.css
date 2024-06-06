@@ -1,0 +1,31 @@
+.table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  .table th, .table td {
+    padding: 15px;
+    text-align: left;
+  }
+  
+  .table thead {
+    background-color: #E16C6F; /* Pink color */
+    color: white;
+  }
+  
+  .table tbody tr:nth-child(odd) {
+    background-color: #f9f9f9;
+  }
+  
+  .table tbody tr:nth-child(even) {
+    background-color: #F8EDE0;
+  }
+  
+  .table tbody tr:hover {
+    background-color: #ffe6f0; /* Lighter pink */
+    cursor: pointer;
+  }

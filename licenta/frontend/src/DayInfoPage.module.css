@@ -1,0 +1,65 @@
+
+/* CSS */
+.button-89 {
+  --b: 3px;   /* border thickness */
+  --s: .45em; /* size of the corner */
+  --color: #373B44;
+  
+  padding: calc(.5em + var(--s)) calc(.9em + var(--s));
+  color: var(--color);
+  --_p: var(--s);
+  background:
+    conic-gradient(from 90deg at var(--b) var(--b),#0000 90deg,var(--color) 0)
+    var(--_p) var(--_p)/calc(100% - var(--b) - 2*var(--_p)) calc(100% - var(--b) - 2*var(--_p));
+  transition: .3s linear, color 0s, background-color 0s;
+  outline: var(--b) solid #0000;
+  outline-offset: .6em;
+  font-size: 16px;
+
+  border: 0;
+
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-89:hover,
+.button-89:focus-visible{
+  --_p: 0px;
+  outline-color: var(--color);
+  outline-offset: .05em;
+}
+
+.button-89:active {
+  background: var(--color);
+  color: #fff;
+}
+.square {
+    width: 150px; /* Adjust as necessary */
+    height: 150px; /* Adjust as necessary */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border: 3px solid #40813f; /* Optional: Add a border */
+    margin: 10px; /* Add some space around */
+    padding: 10px; /* Add some padding if necessary */
+    box-sizing: border-box; /* Ensure padding and border are included in the width/height */
+    border-radius: 5px; /* Optional: Add rounded corners */
+    background-color: #F7DED0; /* Optional: Add background color */
+  }
+
+.foodName {
+    font-size: 24px; /* Make the font size smaller */
+    color: #0A6847;
+  }
+
+.mealContainer {
+    display: flex;
+    align-items: flex-start; /* Align items to the start of the flex container */
+    margin-bottom: 20px; /* Add some space between meal entries */
+  }
+  
+.mealDetails {
+    margin-left: 20px; /* Add space between the square and meal details */
+  }
